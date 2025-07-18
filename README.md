@@ -1,5 +1,5 @@
 # Ice's Mod Manager
--# Inspired by Monke Mod Manager By (Couldn't find Original Repository)
+<sup><sub>Inspired by Monke Mod Manager By (Couldn't find Original Repository)</sub></sup>
 
 ## Welcome to Ice's Mod Manager
 ### This tool helps you Mod a Popular VR Game called Gorilla Tag.
