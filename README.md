@@ -4,11 +4,13 @@
 ## Welcome to Ice's Mod Manager
 ### This tool helps you Mod a Popular VR Game called Gorilla Tag.
 ### This tool works both on Steam VR & Oculus PC.
-
+------------------------------------------------------------------------------------------
 ## Installation Tutorial:
 
+------------------------------------------------------------------------------------------
 ## Support the Creator by joining the Discord:
 
+------------------------------------------------------------------------------------------
 # Reminders:
 ## THIS TOOL IS NOT ASSOCIATED WITH ANOTHER AXIOM
 ## THIS TOOL IS NOT SUPPORTED ON NON-PCVR PLATFORMS
