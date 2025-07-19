@@ -1,9 +1,9 @@
 # Ice's Mod Manager
-<sup><sub>Inspired by Monke Mod Manager By (Couldn't find Original Repository)</sub></sup>
+<sup><sub>Inspired by Monke Mod Manager By (BzzzThe18th)[https://github.com/BzzzThe18th/MonkeModManager]</sub></sup>
 
 ## Welcome to Ice's Mod Manager
 ### This tool helps you Mod a Popular VR Game called Gorilla Tag.
-### This tool works both on Steam VR & Oculus PC.
+### This tool works both on Steam VR & Oculus PC. This tool will not work for Standalone.
 ------------------------------------------------------------------------------------------
 ### Installation Tutorial:
 
