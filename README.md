@@ -9,7 +9,7 @@
 
 ------------------------------------------------------------------------------------------
 ### Support the Creator by joining the Discord:
-
+https://discord.gg/xHrsf6fMuM
 ------------------------------------------------------------------------------------------
 **Reminders:**
 - This tool isn't made for Cheating! Use Mods Responsibly in Modded Lobbies.
