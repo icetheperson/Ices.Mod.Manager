@@ -6,7 +6,7 @@
 ### This tool works both on Steam VR & Oculus PC. This tool will not work for Standalone.
 ------------------------------------------------------------------------------------------
 ### Installation Tutorial:
-
+### Coming Soon
 ------------------------------------------------------------------------------------------
 ### Support the Creator by joining the Discord:
 https://discord.gg/xHrsf6fMuM
