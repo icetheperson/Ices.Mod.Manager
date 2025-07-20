@@ -7,7 +7,7 @@
 ------------------------------------------------------------------------------------------
 ## ❓ Why Ice's Mod Manager
 ### 🌐 Customizable UI
-### ✅ Safe to Use (All Mods are checked through [VirusTotal](https://www.virustotal.com/gui/home/upload)
+### ✅ Safe to Use (All Mods are checked through [VirusTotal](https://www.virustotal.com/gui/home/upload))
 ### 💰 100% Free to Use
 ### 🛡️ Made by a Trusted Developer
 ------------------------------------------------------------------------------------------
