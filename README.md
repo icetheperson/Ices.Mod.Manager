@@ -3,7 +3,13 @@
 
 ## 🛠️ Welcome to Ice's Mod Manager
 ### 🔥 This tool helps you Mod a Popular VR Game called Gorilla Tag. Play with all of the Most Popular Mods ranging from Cool Mod Menu's to Sick Emotess and More!
-### 🌐 This tool works both on Steam VR & Oculus PC. This tool will not work for Quest Standalone and other platforms are not supported.
+### 🎮 This tool works both on Steam VR & Oculus PC. This tool will not work for Quest Standalone and other platforms are not supported.
+------------------------------------------------------------------------------------------
+## ❓ Why Ice's Mod Manager
+### 🌐 Customizable UI
+### ✅ Safe to Use (All Mods are checked through [VirusTotal](https://www.virustotal.com/gui/home/upload)
+### 💰 100% Free to Use
+### 🛡️ Made by a Trusted Developer
 ------------------------------------------------------------------------------------------
 ### ⬇️ Installation Tutorial:
 ### Coming Soon
@@ -11,7 +17,7 @@
 ### ➕ Support the Creator by joining the Discord:
 https://discord.gg/xHrsf6fMuM
 ------------------------------------------------------------------------------------------
-**Reminders:**
+**⚠️ Reminders:**
 - This tool isn't made for Cheating! Use Mods Responsibly in Modded Lobbies.
 - The Owner of this tool isn't responsible for any Bans and/or Penalties. 
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2025 Another Axiom LLC.
