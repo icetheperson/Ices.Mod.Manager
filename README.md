@@ -15,7 +15,10 @@
 ### Coming Soon
 ------------------------------------------------------------------------------------------
 ### ➕ Support the Creator by joining the Discord:
-https://discord.gg/xHrsf6fMuM
+# https://discord.gg/xHrsf6fMuM
+------------------------------------------------------------------------------------------
+### ➕ Support the Creator by joining the Subscribing to the Youtube:
+# https://youtube.com/@ice_the_person
 ------------------------------------------------------------------------------------------
 **⚠️ Reminders:**
 - This tool isn't made for Cheating! Use Mods Responsibly in Modded Lobbies.
