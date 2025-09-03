@@ -3,7 +3,7 @@
 
 ## 🛠️ Welcome to Ice's Mod Manager
 ### 🔥 This tool helps you Mod a Popular VR Game called Gorilla Tag. Play with all of the Most Popular Mods ranging from Cool Mod Menu's to Sick Emotess and More!
-### 🎮 This tool works both on Steam VR & Oculus PC. This tool will not work for Quest Standalone and other platforms are not supported.
+### 🎮 This tool works both on Steam VR & Oculus PC. Only Mods on the Standalone Page will work for Meta Quest Standalone Modding!
 ------------------------------------------------------------------------------------------
 ## ❓ Why Ice's Mod Manager
 ### 🌐 Customizable UI
