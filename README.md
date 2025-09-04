@@ -2,7 +2,7 @@
 <sup><sub>Inspired by Monke Mod Manager By  [BzzzThe18th](https://github.com/BzzzThe18th/MonkeModManager)</sub></sup>
 
 ## 🛠️ Welcome to Ice's Mod Manager
-### 🔥 This tool helps you Mod a Popular VR Game called Gorilla Tag. Play with all of the Most Popular Mods ranging from Cool Mod Menu's to Sick Emotess and More!
+### 🔥 This tool helps you Mod a Popular VR Game called Gorilla Tag. Play with all of the Most Popular Mods ranging from Cool Mod Menu's to Sick Emotes and More!
 ### 🎮 This tool works both on Steam VR & Oculus PC. Only Mods on the Standalone Page will work for Meta Quest Standalone Modding!
 ------------------------------------------------------------------------------------------
 ## ❓ Why Ice's Mod Manager
